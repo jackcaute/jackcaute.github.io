@@ -6,7 +6,7 @@
   <link href="https://caute.net/atom.xml" rel="self"/>
   
   <link href="https://caute.net/"/>
-  <updated>2026-03-26T10:37:36.874Z</updated>
+  <updated>2026-03-26T11:25:00.954Z</updated>
   <id>https://caute.net/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>朝颜集五六</title>
+    <link href="https://caute.net/2026/03/26/zwl/"/>
+    <id>https://caute.net/2026/03/26/zwl/</id>
+    <published>2026-03-26T11:24:08.000Z</published>
+    <updated>2026-03-26T11:25:00.954Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="请重试" data-whm="无法验证">  <script id="hbeData" type="hbeData" data-hmacdigest="3907ce675a4e9086d5cb73028d4df910b4654fdfc9607aa46ead32e337650f08">a21f4e11712fed59d46abe18b0d14be882fdd1b60aa0f1ff3a7f0eea97ab1be549fc11ebdbc5267550a19b7b66a246e8dd7bb02a2fc943ef938642a7c4d74cb61cdd77fd389b5037a94da370b505b15374bd019ea727c5aaf1d32cc9704be888ef08de9f6de6d0c1b016606fa64495732383498578dd2dea95525953d246c8604f362f05dbcc9ea9d3ccfc8fcecf5d1ad7c8c880bad610bd5582a3571df6bab899cd74ee3741d6407fffeab4cd97cb16b94e5242941450f015e8ff75bede04c97f0a3ee8e9001d5ff7587f2e68970e597183a22a7db02beb2dbe45797255529162c4818f4333040d631ab0de792722890b6295fe70fc93abdc47c18b0569dc766e10ce6d6aa90a16d0babb40af65a73937c3fa97a05c81d632bcae2777643839c54882beae529851759c72f93a8f3d639da4124b6b5c6b1fb427c0ce0f238a999d1d392d2146c8f6044dcf1a4031ffc3edbdd4b20266933250704e6d30cf138f4a99265785b6a55c9a5525a4a942228633ccb178c332de4e6f396e757be9bfff53e34baca2be8d62a9a0bc4adb6cb230442521438247003c9f1a5c94fb3f4369d32a56f36cd0ffc0f043fa625f8a7bb0</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">请输入密码</summary>
+    
+    
+    
+    <category term="所思" scheme="https://caute.net/categories/t/"/>
+    
+    
+    <category term="牵牛花" scheme="https://caute.net/tags/%E7%89%B5%E7%89%9B%E8%8A%B1/"/>
+    
+  </entry>
   
   <entry>
     <title>朝颜集五五</title>
@@ -402,27 +423,6 @@
     <updated>2026-03-09T16:22:08.162Z</updated>
     
     <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="请重试" data-whm="无法验证">  <script id="hbeData" type="hbeData" data-hmacdigest="a860c98cbb103fa829bed036884d3125c83a4832ac14bc347d970ed7489806af">a21f4e11712fed59d46abe18b0d14be812ff81851da8ab41b467f2b0cef9c909f8f5a33f9736f0accac9b334ba6a8efa1f5a1786f091d6522a583205da05edb79f888b228ce6ff4f9337da68e26b2963f8026d7ae36967eb8d579ad7e360913ecb2f0f5a733426b979a8e421e016742d70f92da27268c4351672c9db53525b161d171c87641807e71d9696d11ff0ef9a643aba97dc8a6e71043ca083f9e70d3a3bb895768dbd640d8fcdae2f5da1ef2667dda7fd7bf2dfab219bf7acb2f8db89bb165119f45dc110f5924ceebee160dc70bacd82deaa5cd5c5dfc96a48d09a7b719264885ced15fdb6608409b479533b5d8fe34c6b4a0a15406be4bbf8e427a60970405c9e87275441e00dfff082a7b561cc7015ccaa0f945546338a88d203cdd12d44b01178eebb5ad2224b97c6320e1c18b7cb7973a7eb0108d0fdef3c61efc41ed7e7cf78715143a50d64160778b99bcfee8b2f30a9a86bf9bbfac199ba1f5d9517d53692ea4a53eddcf90275b0bf494fdbc69cf9be9c69af6568af1b1c41cb014d279d1f97a8becc242a99ca3e82c5abec018f9fbde02bd80006ec6db207cf1b621973a7aa4a473c98ebf9769d3f079c07b9dcbd1a698bf172d36f8cfbba00ac3782db6b65d15c8c59f2ce03623efefcebbe136518028e6cd0ae33306dd457aea22606d4146ce360d5228dc47dfec1c547d39325f909de1da45dc9709d85454ec12418e401e06062895484f44827ea7bba8dd5b79eff4e59e0289070baa27be9aaf666a438db265ce062f098e159eaf9b7b518450a90bcb8fad9132988a488d7cc8141a1a63972e1d609c03b5b14b0f04bacbaac25a9bf959b48da7fb051cd7ee444298b1f4c74bf45b062b86463901499bd948168a1271599fb375cdf5a512d5baef33437333b3c224c033cc18449170497aaa01aeff68cfae371e0d6dd1525f483b005ce4569e273a2102e2c9ce3acf991c37389f15e6df334df257688c65443483f7a3d150b104dbea41b1de291429b63e990ae9146aaf4de3965b4c1c478a40bcf8e5e9959854756dbd5a49cc77325cdb59af39671843fb53213b57a</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-    
-    
-    <summary type="html">请输入密码</summary>
-    
-    
-    
-    <category term="所思" scheme="https://caute.net/categories/t/"/>
-    
-    
-    <category term="牵牛花" scheme="https://caute.net/tags/%E7%89%B5%E7%89%9B%E8%8A%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>朝颜集三六</title>
-    <link href="https://caute.net/2026/03/09/zsl/"/>
-    <id>https://caute.net/2026/03/09/zsl/</id>
-    <published>2026-03-09T10:49:10.000Z</published>
-    <updated>2026-03-09T19:04:36.435Z</updated>
-    
-    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="请重试" data-whm="无法验证">  <script id="hbeData" type="hbeData" data-hmacdigest="2cf792b9aeea60d460da9717bab64d242c04a0da6e5645a38497ee39d50fb4be">a21f4e11712fed59d46abe18b0d14be8cf8e184d5574b2106579f14d924b50f9af4835b465f0572d2b556afed3bd504a36103538f915163051c86846ce5f51d36729f9378a6339713dd64f755c2c824c4f73c94fd57ab4d0766c79b96e02fa8164159738fca62ab91bac1d9404c2fa8f064de59b9cd46340ee9189f820e63ceb38a63e65305e4ac06c0a70600d55dded531afec467b3e787ac23ed6b82043386c225e84e4956d9fc39e6737bc59cbb3845e7d57654fdef66c09021ac7a70c809c554172e87ca25fb02a076f15a9ff8874e3b68eccaa0be0d1b5c915402ef8b38db3c783dd184dd95ca0057629d33a373bbe1aeea881ae17ebbdf59e856f37ac10811b28d574a1526cd580d5d95e6021536cf93c87c2f26277ab744f87340c81607bde071c99bec0c4badc9827ca5e1215594a04f3bbc8945151835dbe8f92136e0da6acc2534a35c4201241ef55ebb9a626a697e8322a72bbeed551c917af77921e2df4b16da7e6f5a9397245e4db85722c256dc22ea9dfac140a8e12d68b725711636cd154eb2e458122e5f4513b4ed997da2bd2729b0dc6f13a8df5c1eda95fcd10a7e3887561d94ef0d05d0bd8f5339bf5a6f9540badbdb5c14c8dde5550f6654fadb9c35f25a1fabede6ee825f68</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
     
     
     <summary type="html">请输入密码</summary>
